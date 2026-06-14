@@ -1,17 +1,17 @@
-# My C Learning
+# My C Learning 
 
 This repository contains my daily C programming learning journey.
 
 ## Purpose
-- Practice C basics step by step
-- Track my progress over time
-- Save small exercises and experiments
+* Practice C basics step by step
+* Track my progress over time
+* Save small exercises and experiments
 
 ## Structure
-- learning/ → small practice codes
-- projects/ → bigger programs (later)
+* `learning/` → small practice codes
+* `projects/` → bigger programs (later)
 
 ## Topics covered so far
-- printf
-- variables (int, float, char)
-- strings
+* `printf()`
+* Variables (`int`, `float`, `char`)
+* Strings and Character Arrays
