@@ -16,3 +16,4 @@ This repository contains my daily C programming learning journey.
 * **Data Types:** Working with integers (`int`), floating-point numbers (`float`), and characters (`char`).
 * **Strings:** Handling basic character arrays and printing strings using `%s`.
 * **Arrays:** Defining, initializing, and modifying integer arrays (`int numbers[10]`).
+* **Type Casting:** Explicitly converting data types (e.g., `(float) i2 / i1`) to prevent integer division errors and maintain precision.
