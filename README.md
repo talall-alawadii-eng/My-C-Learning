@@ -9,7 +9,7 @@ This section highlights the practical applications built day-by-day. Each projec
 
 | Day | Project Name | Description | Source Code |
 | :--- | :--- | :--- | :--- |
-| **Day 1** | Celsius to Fahrenheit | A temperature converter using floating-point arithmetic (`9.0/5`) to maintain precise fractional values. | [View Code](./projects/Day01_CelsiusToFahrenheit/) |
+| **Day 1** | Celsius to Fahrenheit | A temperature converter using floating-point arithmetic (`9.0/5`) to maintain precise fractional values. | [View Code](./mini%20project%20day1.c) |
 | **Day 2** | *Coming Soon* | *Description of your next mini-project...* | [Link](./projects/) |
 
 ---
