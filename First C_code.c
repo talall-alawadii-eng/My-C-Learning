@@ -32,6 +32,13 @@ int main() {
     printf("Please enter three numbers you want to save in the array:");
     scanf("%d %d %d\n",&numbers[0],&numbers[1],&numbers[2]);
     printf("Your numbers are %d,%d and %d\n ",numbers[0],numbers[1],numbers[2]);
+
+    int i1,i2;
+    i1=2;
+    i2=5;
+    float output;
+    output=(float) i2/i1;//casting
+    printf("%f",output);
     
     
 
