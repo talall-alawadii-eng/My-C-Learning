@@ -10,7 +10,10 @@ Every single day of learning finishes with a hands-on mini-project to solidify c
 | Day | Project Name | Description | Source Code |
 | :--- | :--- | :--- | :--- |
 | **Day 1** | Celsius to Fahrenheit | A temperature converter using floating-point arithmetic (`9.0/5`) to maintain precise fractional values. | [View Code](./mini%20project%20day1.c) |
-| **Day 2** | Number Decomposition Engine | An algorithm that decomposes a 4-digit integer into its positional place values (Thousands, Hundreds, Tens, Units) using modulo and division. | [View Code](./day%202%20mini_project.c) |
+| **Day 2(A)** | Number Decomposition Engine | An algorithm that decomposes a 4-digit integer into its positional place values (Thousands, Hundreds, Tens, Units) using modulo and division. | [View Code]
+(./day%202%20mini_project.c) |
+| **Day 2(B)** | 4-Digit Swapping Engine | A digit-manipulation algorithm that swaps the first two digits with the last two digits of a 4-digit integer using modulo 100 arithmetic. | [View Code](./%282%29mini_project%20day2.c) |
+| **Day 3** | *In Progress* | *Developing the next challenge...* | [Link](./) |
 
 ---
 
